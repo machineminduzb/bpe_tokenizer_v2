@@ -1,19 +1,3 @@
-Metadata-Version: 2.1
-Name: bpe-tokenizer
-Version: 0.2.0
-Summary: A Byte Pair Encoding (BPE) tokenizer package for CPU and GPU.
-Home-page: https://github.com/machineminduzb/bpe_tokenizer
-Author: Javokhir
-Author-email: machinemind60@gmail.com
-License: MIT
-Classifier: License :: OSI Approved :: MIT License
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3.6
-Classifier: Programming Language :: Python :: 3.7
-Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.9
-Description-Content-Type: text/markdown
-
 BPE Tokenizer
 This package provides an implementation of Byte Pair Encoding (BPE) tokenizer, designed to be efficient and fast. It includes training on both CPU and GPU, along with encoding and decoding functionalities.
 

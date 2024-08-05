@@ -1,3 +1,4 @@
+README.md
 setup.py
 bpe_tokenizer/__init__.py
 bpe_tokenizer/bpe_tokenizer.py
