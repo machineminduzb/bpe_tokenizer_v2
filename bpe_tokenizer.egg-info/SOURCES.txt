@@ -1,0 +1,9 @@
+setup.py
+bpe_tokenizer/__init__.py
+bpe_tokenizer/bpe_tokenizer.py
+bpe_tokenizer/dependency_check.py
+bpe_tokenizer.egg-info/PKG-INFO
+bpe_tokenizer.egg-info/SOURCES.txt
+bpe_tokenizer.egg-info/dependency_links.txt
+bpe_tokenizer.egg-info/requires.txt
+bpe_tokenizer.egg-info/top_level.txt
