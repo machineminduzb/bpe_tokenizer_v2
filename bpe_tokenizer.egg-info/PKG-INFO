@@ -2,7 +2,7 @@ Metadata-Version: 2.1
 Name: bpe-tokenizer
 Version: 0.2.0
 Summary: A Byte Pair Encoding (BPE) tokenizer package for CPU and GPU.
-Home-page: https://github.com/machineminduzb/bpe_tokenizer
+Home-page: https://github.com/machineminduzb_v2/bpe_tokenizer
 Author: Javokhir
 Author-email: machinemind60@gmail.com
 License: MIT
