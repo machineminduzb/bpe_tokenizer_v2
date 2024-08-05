@@ -20,5 +20,6 @@ wheels/
 *.egg
 .pytest_cache/
 .venv
+.pypirc
 venv/
 ENV/
